@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-08-22T02:51:55.346578+00:00",
+  "run_id": "32093358875",
+  "run_url": "https://github.com/ADD12/lemonade/actions/runs/32093358875",
+  "repo": "ADD12/lemonade",
+  "repo_url": "https://github.com/ADD12/lemonade",
+  "actions_url": "https://github.com/ADD12/lemonade/actions/workflows/benchmark-regression.yml",
+  "commit": "d871fae7d754c618db7945c4f67a42802d75de73",
+  "lemonade_version": null,
+  "by_model_scenario": {},
+  "history": {}
+}
